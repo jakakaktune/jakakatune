@@ -1,0 +1,13 @@
+{
+  "name": "@lekuluent/lekuluent",
+  "appName": "LekuluEnt",
+  "version": "1.0.0",
+  "description": "LekuluEnt is a TizenBrew module that blocks popups and ads on lekuluent.et.",
+  "packageType": "mods",
+  "websiteURL": "https://lekuluent.et/",
+  "main": "dist/userScript.js",
+  "author": "",
+  "serviceFile": "dist/service.js",
+  "keys": [],
+  "license": "GPL-3.0-only"
+}
